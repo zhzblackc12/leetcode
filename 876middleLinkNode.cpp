@@ -3,6 +3,8 @@
 #include <stack>
 
 using namespace std;
+
+// leetcode上关于栈的题目大家可以先做20,155,232,844,224,682,496.
     
  // Definition for singly-linked list.
 struct ListNode {
