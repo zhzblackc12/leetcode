@@ -5,6 +5,8 @@
 #include <unordered_map>
 using namespace std;
 
+// 总结：
+// 主要是思维转变，转变成第n个，找n前面有多个几匹配的，这样避免判断太多
 class Solution {
 public:
     int countPairs(vector<int>& deliciousness) {
